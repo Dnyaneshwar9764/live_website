@@ -495,19 +495,22 @@ a.a-img span img:hover{
 .a-img span:nth-child(1) img:hover{
     padding: 20px;
     margin-left: -3%;
+    transition: 1s;
 }
 .a-img span:nth-child(2) img:hover{
     padding: 20px;
     margin-left: -3%;
-    
+    transition: 1s;
  }
  .a-img span:nth-child(3) img:hover{
     padding: 20px;
     margin-left: -3%;
+    transition: 1s;
  }
 .a-img span:nth-child(4) img:hover{
     padding: 20px;
     margin-left: -3%;
+    transition: 1s;
     
 }
 .a-head{
